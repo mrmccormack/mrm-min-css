@@ -11,6 +11,7 @@ Changes:
 1. Un-minified CSS and beautified
 1. Beautified HTML file
 1. Change links to absolute for docs
+1. added `img` and `css` folders and change linkes in `index.html`
 
 ### Netlify Version at:
 - https://elastic-neumann-af1820.netlify.com/
